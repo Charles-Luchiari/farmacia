@@ -5,7 +5,6 @@ import java.time.LocalDateTime;
 import org.hibernate.annotations.UpdateTimestamp;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.generation.lojagames.model.Categoria;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
